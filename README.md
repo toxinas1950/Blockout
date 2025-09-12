@@ -2,6 +2,10 @@
 
 > Smash blocks, catch vibes, and keep that ball alive - a proper block‑smashing arcade game with a chunky Minecraft twist. 
 
+<p align="center">
+<img src="demo.gif" alt="Gameplay demo" width="720" />
+</p>
+
 ---
 
 ## 🎮 What’s This?
